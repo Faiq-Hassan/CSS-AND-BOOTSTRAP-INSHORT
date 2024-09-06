@@ -1,0 +1,21 @@
+.container{
+  
+}
+.col{
+    border: 1px solid black;
+}
+.imgs{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.imgs:hover{
+    cursor: pointer;
+    transform: scale(1.5);
+
+}
+divClass:hover img {
+    transform: scale(1.5);
+}

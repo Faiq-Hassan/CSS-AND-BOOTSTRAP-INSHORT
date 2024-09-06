@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+#flexxy {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    justify-content: space-evenly;
+}
+
+.linked {
+    width: 250px;
+    height: 200px;
+}
